@@ -1,0 +1,21 @@
+
+%\subsection{Pie chart for Research Object (75)}
+%\begin{figure}
+\begin{center}
+\begin{tikzpicture}[scale=2]
+\pgfmathsetcounter{pieb}{0}
+\foreach \p/\q/\t/\c in {21/16/Architecture Analysis Method/blue!20, 16/12/Architecture Design Method/blue!30, 11/8/Architecture Optimization Method/blue!40, 9/7/Architecture Evolution/blue!50, 9/7/Architecture Description Language/blue!60, 5/4/Architecture Decision Making/blue!70, 5/4/Reference Architecture/blue!80, 4/3/Architecture Pattern/blue!90, 4/3/Architecture Description/blue!100, 4/3/Architectural Aspects/blue!110, 4/3/Teaching/blue!120, 3/2/Technical Dept/blue!130, 1/1/Quality Evolution/blue!140, 1/1/Architecture Extraction/blue!150, 1/1/Architectural Assumptions/blue!160}
+  {
+    \setcounter{piea}{\value{pieb}}
+    \addtocounter{pieb}{\q}
+    \slice{\thepiea/75*360}
+          {\thepieb/75*360}
+          {\p\%}{\t}{\c}
+  }
+\end{tikzpicture}
+\textbf{Pie chart for Research Object (75)}
+\end{center}
+%\caption{Pie chart for Research Object (75)}
+%\label{fig:pie_researchobject}
+%\end{figure}
+

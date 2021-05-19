@@ -1,0 +1,21 @@
+%\subsection{Pie chart for Input Data (70)}
+%\begin{figure}
+\begin{center}
+\begin{tikzpicture}[scale=2]
+\pgfmathsetcounter{pief}{0}
+\foreach \p/\q/\t/\c in {36/25/none/blue!20, 37/26/used/blue!30, 27/19/available/blue!40}
+  {
+    \setcounter{piee}{\value{pief}}
+    \addtocounter{pief}{\q}
+    \slice{\thepiee/70*360}
+          {\thepief/70*360}
+          {\p\%}{\t}{\c}
+  }
+\end{tikzpicture}
+
+\textbf{Pie chart for Input Data (70)}
+\end{center}
+%\caption{Pie chart for Input Data (70)}
+%\label{fig:pie_inputdata}
+%\end{figure}
+

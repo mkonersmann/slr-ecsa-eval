@@ -1,0 +1,13 @@
+\tiny
+\pgfplotstabletypeset[
+  col sep=semicolon,
+  string type,
+  columns={Year, Paper ID, Research Objects, Evaluation Methods, Properties},
+  columns/Year/.style={column name=Year, column type={l}},
+  columns/Paper ID/.style={column name=Paper, column type={p{1.5em}}, postproc cell content/.style={@cell content={\cite{##1}}} },
+  columns/Research Objects/.style={column name=Research Objects,column type={p{4.2cm}}},
+  columns/Evaluation Methods/.style={column name=Evaluation Methods,column type={p{3.2cm}}},
+  columns/Properties/.style={column name=Properties,column type={p{3.2cm}}},
+  every head row/.style={before row=\toprule, after row=\midrule},
+  every last row/.style={after row=\bottomrule},
+]{data/Overview.csv}

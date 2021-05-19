@@ -1,0 +1,245 @@
+Year|Paper ID|Research Object|Evaluation Method|Guideline of Evaluation type|Property Instance|Tool Prototype|Input Data|Artifact Evaluation Package available for replication?|Threat to Validity Guidelines|paperType|Threats To Validity|Industry Paper
+2016|Abukwaik2016|Architecture Analysis Method|Experiment|none referenced|Accuracy|used|none|no|none referenced|full|Selection Bias, Generalizability, Evaluator Bias|no
+2016|Abukwaik2016|Architecture Analysis Method|Experiment|none referenced|Accuracy|used|none|no|none referenced|full|Selection Bias, Generalizability, Evaluator Bias|no
+2016|Abukwaik2016|Architecture Analysis Method|Experiment|none referenced|Accuracy|used|none|no|none referenced|full|Selection Bias, Generalizability, Evaluator Bias|no
+2020|Aerts2020|Teaching|Questionnaire|none referenced|Trustworthiness|none|none|no|none referenced|education and training|none|no
+2016|Agrawal2016|Architecture Optimization Method|Motivating Example|none referenced|Performance|used|used|no|none referenced|full|none|no
+2016|Agrawal2016|Architecture Optimization Method|Motivating Example|none referenced|Feasibility|used|used|no|none referenced|full|none|no
+2016|Agrawal2016|Architecture pattern|Motivating Example|none referenced|Performance|used|used|no|none referenced|full|none|no
+2016|Agrawal2016|Architecture pattern|Motivating Example|none referenced|Performance|used|used|no|none referenced|full|none|no
+2018|Alkhabbas2018|Architecture Description|Experiment |none referenced|Performance|available|used|no|none referenced|full|none|no
+2018|Alkhabbas2018|Architecture Description|Case Study|none referenced|Feasibility|available|used|no|none referenced|full|none|no
+2020|Almeida2020|Architecture Optimization Method|Case Study|none referenced|Effectiveness|none|available|no|none referenced|full|Internal Validity, External Validity|no
+2020|Almeida2020|Architecture Optimization Method|Case Study|none referenced|Applicability|none|available|no|none referenced|full|Internal Validity, External Validity|no
+2020|Almeida2020|Architecture Evolution|Case Study|none referenced|Complexity|none|available|no|none referenced|full|Internal Validity, External Validity|no
+2016|Alshara2016|Architecture Analysis Method|Motivating Example|none referenced|none|none|used|no|none referenced|full|none|no
+2018|Antonino2018|Architecture Design Method|Motivating Example|none referenced|Feasibility|none|none|no|none referenced|full|none|yes
+2018|Arcaini2018|Architecture Description Language|Motivating Example|none referenced|Completeness|available|used|yes|none referenced|full|none|no
+2018|Arcaini2018|Architecture Analysis Method|Motivating Example|none referenced|Feasibility|available|used|yes|none referenced|full|none|no
+2018|Avritzer2018|Architecture Analysis Method|Case Study|none referenced|Scalability|none|available|yes|none referenced|full|Subject Bias, Evaluator Bias, Selection Bias|no
+2018|Avritzer2018|Architecture Analysis Method|Case Study|none referenced|Scalability|none|available|yes|none referenced|full|Subject Bias, Evaluator Bias, Selection Bias|no
+2018|Avritzer2018|Architecture Analysis Method|Case Study|none referenced|Scalability|none|available|yes|none referenced|full|Subject Bias, Evaluator Bias, Selection Bias|no
+2017|Bhat2017|Architecture Analysis Method|Case Study|none referenced|Precision|used|available|no|none referenced|full|Selection Bias, Generalizability|yes
+2017|Bhat2017|Architecture Analysis Method|Case Study|none referenced|Precision|used|available|no|none referenced|full|Selection Bias, Generalizability|yes
+2017|Bhat2017|Architecture Analysis Method|Case Study|none referenced|Accuracy|used|available|no|none referenced|full|Selection Bias, Generalizability|yes
+2018|Buchgeher2018|Architecture Extraction|Case Study|none referenced|Performance|used|used|no|none referenced|full|Internal Validity, External Validity|yes
+2018|Buchgeher2018|Architecture Extraction|Case Study|none referenced|Scalability|used|used|no|none referenced|full|Internal Validity, External Validity|yes
+2018|Buchgeher2018|Architecture Extraction|Case Study|none referenced|Trustworthiness|used|used|no|none referenced|full|Internal Validity, External Validity|yes
+2018|Buchgeher2018|Architecture Analysis Method|Case Study|none referenced|Performance|used|used|no|none referenced|full|Internal Validity, External Validity|yes
+2018|Buchgeher2018|Architecture Analysis Method|Case Study|none referenced|Scalability|used|used|no|none referenced|full|Internal Validity, External Validity|yes
+2018|Buchgeher2018|Architecture Analysis Method|Case Study|none referenced|Trustworthiness|used|used|no|none referenced|full|Internal Validity, External Validity|yes
+2017|Camara2017|Architecture Analysis Method|Experiment|none referenced|Effectiveness|used|used|no|none referenced|full|none|no
+2017|Camara2017|Architecture Analysis Method|Experiment|none referenced|Effectiveness|used|used|no|none referenced|full|none|no
+2017|Camara2017|Architecture Analysis Method|Experiment|none referenced|Effectiveness|used|used|no|none referenced|full|none|no
+2017|Camara2017|Architecture Analysis Method|Experiment|none referenced|Effectiveness|used|used|no|none referenced|full|none|no
+2017|Camara2017|Architecture Analysis Method|Experiment|none referenced|Effectiveness|used|used|no|none referenced|full|none|no
+2017|Camara2017|Architecture Analysis Method|Experiment|none referenced|Performance|used|used|no|none referenced|full|none|no
+2017|Camara2017|Architecture Analysis Method|Experiment|none referenced|Performance|used|used|no|none referenced|full|none|no
+2017|Camara2017|Architecture Analysis Method|Experiment|none referenced|Performance|used|used|no|none referenced|full|none|no
+2017|Camara2017|Architecture Analysis Method|Experiment|none referenced|Performance|used|used|no|none referenced|full|none|no
+2017|Camara2017|Architecture Analysis Method|Experiment|none referenced|Performance|used|used|no|none referenced|full|none|no
+2020|Capilla2020|Teaching|Experiment|none referenced|Productivity|none|none|no|none referenced|education and training|none|no
+2020|Capilla2020|Teaching|Experiment|none referenced|Productivity|none|none|no|none referenced|education and training|none|no
+2020|Capilla2020|Teaching|Experiment|none referenced|Productivity|none|none|no|none referenced|education and training|none|no
+2020|Caporuscio2020a|Architecture Description|Experiment|none referenced|Effectiveness|available|available|yes|none referenced|full|Internal Validity, External Validity|no
+2020|Caporuscio2020b|Architecture Design Method|Case Study|none referenced|Effectiveness|none|used|no|none referenced|full|none|yes
+2020|Caporuscio2020b|Architecture Design Method|Case Study|none referenced|Productivity|none|used|no|none referenced|full|none|yes
+2019|Castellanos2019|Architecture Design Method|Questionnaire|kitchenham2008personal|Productivity|used|used|no|none referenced|full|Construct Validity, Internal Validity, External Validity, Reliability|no
+2019|Castellanos2019|Architecture Evolution|Questionnaire|kitchenham2008personal|Productivity|used|used|no|none referenced|full|Construct Validity, Internal Validity, External Validity, Reliability|no
+2019|Castellanos2019|Architecture Evolution|Questionnaire|kitchenham2008personal|Productivity|used|used|no|none referenced|full|Construct Validity, Internal Validity, External Validity, Reliability|no
+2016|Cavalcante2016|Architecture Description Language|Case Study|none referenced|Performance|available|none|no|none referenced|full|none|no
+2020|Chondamrongkul2020|Architecture Description Language|Benchmark|none referenced|Accuracy|available|available|yes|none referenced|full|none|no
+2020|Chondamrongkul2020|Architecture Description Language|Benchmark|none referenced|Accuracy|available|available|yes|none referenced|full|none|no
+2020|Chondamrongkul2020|Architecture Description Language|Benchmark|none referenced|Performance|available|available|yes|none referenced|full|none|no
+2018|Christensen2018|Teaching|Case Study|none referenced|Usefulness|used|used|no|none referenced|full|none|no
+2018|Christensen2018|Teaching|Questionnaire|none referenced|Usefulness|used|used|no|none referenced|full|none|no
+2020|Cruz2020|Architecture Analysis Method|Case Study|none referenced|Feasibility|available|used|no|none referenced|full|Subject Bias, Selection Bias|no
+2020|Dias2020|Architecture Description Language|Benchmark|none referenced|Performance|used|used|no|none referenced|full|none|no
+2020|Dias2020|Architecture Description Language|Motivating Example|none referenced|Usability|used|used|no|none referenced|full|none|no
+2020|Dias2020|Architecture Description Language|Motivating Example|none referenced|Feasibility|used|used|no|none referenced|full|none|no
+2017|Digkas2017|Architecture Evolution|Mining Software Repositories|none referenced|Technical Debt|available|available|yes|none referenced|full|Construct Validity, External Validity, Reliability|no
+2017|Digkas2017|Architecture Evolution|Mining Software Repositories|none referenced|Complexity|available|available|yes|none referenced|full|Construct Validity, External Validity, Reliability|no
+2017|Digkas2017|Architecture Evolution|Benchmark|none referenced|Technical Debt|available|available|yes|none referenced|full|Construct Validity, External Validity, Reliability|no
+2017|Digkas2017|Architecture Evolution|Benchmark|none referenced|Cost savings|available|available|yes|none referenced|full|Construct Validity, External Validity, Reliability|no
+2017|Filho2017|Architecture Description Language|Interview|none referenced|Usability|available|available|Yes|none referenced|full|Construct Validity, External Validity, Reliability|no
+2017|Filho2017|Architecture Description Language|Case Study|none referenced|Effectiveness|available|available|Yes|none referenced|full|Construct Validity, External Validity, Reliability|no
+2016|Gerostathopoulos2016|Architecture Optimization Method|Experiment|none referenced|Performance|available|used|no|none referenced|full|Generalizability|no
+2020|Giaimo2020|Quality Evolution|Case Study|wieringa2014|Feasibility|used|used|no|none referenced|full|Selection Bias|no
+2020|Giaimo2020|Quality Evolution|Case Study|wieringa2014|Effectiveness |used|used|no|none referenced|full|Selection Bias|no
+2017|Haselboeck2017|Architecture Decision Making|Literature Review|wieringa2014design|none|none|used|no|Seaman2008, Gasson2004|full|Confirmability, Dependability, Internal Consistency, Transferability|yes
+2017|Haselboeck2017|Architecture Decision Making|Literature Review|wieringa2014design|none|none|used|no|Seaman2008, Gasson2004|full|Confirmability, Dependability, Internal Consistency, Transferability|yes
+2017|Haselboeck2017|Architecture Decision Making|Literature Review|wieringa2014design|none|none|used|no|Seaman2008, Gasson2004|full|Confirmability, Dependability, Internal Consistency, Transferability|yes
+2017|Haselboeck2017|Architecture Decision Making|Case Study|wieringa2014design|none|none|used|no|Seaman2008, Gasson2004|full|Confirmability, Dependability, Internal Consistency, Transferability|yes
+2018|Heijenk2018|Architecture Decision Making|Interview|runeson2009|Completeness|none|none|no|yin1994case|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2018|Heijenk2018|Architecture Decision Making|Literature Review|none referenced|Completeness|none|none|no|yin1994case|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2018|Heijenk2018|Architecture Decision Making|Interview|runeson2009|Productivity|none|none|no|yin1994case|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2020|Islam2020|Reference Architecture|Motivating Example|none referenced|Performance|available|available|yes|none referenced|full|none|no
+2020|Islam2020|Reference Architecture|Motivating Example|none referenced|Complexity|available|available|yes|none referenced|full|none|no
+2020|Islam2020|Reference Architecture|Motivating Example|none referenced|Usability|available|available|yes|none referenced|full|none|no
+2020|Islam2020|Reference Architecture|Motivating Example|none referenced|Accuracy|available|available|yes|none referenced|full|none|no
+2016|Kapto2016|Architecture Analysis Method|Case Study|none referenced|Effectiveness|used|available|no|none referenced|full|Internal Validity, External Validity|no
+2016|Kapto2016|Architecture Analysis Method|Case Study|none referenced|Effectiveness|used|available|no|none referenced|full|Internal Validity, External Validity|no
+2016|Kapto2016|Architecture Analysis Method|Case Study|none referenced|none|used|available|no|none referenced|full|none|no
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Performance|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Scalability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Availability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Security|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Extensibility|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Usability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Performance|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Scalability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Availability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Security|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Extensibility|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Usability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Performance|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Scalability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Availability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Security|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Extensibility|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Usability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Performance|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Scalability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Availability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Security|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Extensibility|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Usability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Performance|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Scalability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Availability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Security|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Extensibility|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Usability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Performance|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Scalability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Availability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Security|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Extensibility|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Usability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Performance|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Scalability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Availability|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Security|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Extensibility|available|available|no|none referenced|full|none|yes
+2020|Koziolek2020|Architecture Design Method|Experiment|none referenced|Usability|available|available|no|none referenced|full|none|yes
+2019|Malakuti2019|Architecture pattern|Argumentation|none referenced|Feasibility|none|none|no|none referenced|full|none|yes
+2020|Malakuti2020|Technical Dept|Case Study|none referenced|none|none|none|no|none referenced|full|none|yes
+2019|Malki2019|Architecture Decision Making|Grounded Theory|zdun2018guiding|Uncertainty Reduction|available|available|no|none referenced|full|Selection Bias, Measurement Bias, Generalizability|no
+2019|Malki2019|Architecture Decision Making|Grounded Theory|zdun2018guiding|Uncertainty Reduction|available|available|no|none referenced|full|Selection Bias, Measurement Bias, Generalizability|no
+2019|Malki2019|Architecture Decision Making|Grounded Theory|zdun2018guiding|Uncertainty Reduction|available|available|no|none referenced|full|Selection Bias, Measurement Bias, Generalizability|no
+2019|Malki2019|Architecture Decision Making|Grounded Theory|glaser1967 |Uncertainty Reduction|available|available|no|none referenced|full|Selection Bias, Measurement Bias, Generalizability|no
+2019|Malki2019|Architecture Decision Making|Grounded Theory|glaser1967 |Uncertainty Reduction|available|available|no|none referenced|full|Selection Bias, Measurement Bias, Generalizability|no
+2019|Malki2019|Architecture Decision Making|Grounded Theory|glaser1967 |Uncertainty Reduction|available|available|no|none referenced|full|Selection Bias, Measurement Bias, Generalizability|no
+2019|Malki2019|Architecture Decision Making|Grounded Theory|charmaz2014|Uncertainty Reduction|available|available|no|none referenced|full|Selection Bias, Measurement Bias, Generalizability|no
+2019|Malki2019|Architecture Decision Making|Grounded Theory|charmaz2014|Uncertainty Reduction|available|available|no|none referenced|full|Selection Bias, Measurement Bias, Generalizability|no
+2019|Malki2019|Architecture Decision Making|Grounded Theory|charmaz2014|Uncertainty Reduction|available|available|no|none referenced|full|Selection Bias, Measurement Bias, Generalizability|no
+2018|Martini2018|Architectural Aspects|Case Study|runeson2009|Usefulness|used|used|no|runeson2009|full|Construct Validity, Internal Validity, External Validity, Reliability|no
+2018|Martini2018|Architectural Aspects|Questionnaire|runeson2009|Usefulness|used|used|no|runeson2009|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2018|Martini2018|Architectural Aspects|Case Study|runeson2009|Usefulness|used|used|no|runeson2009|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2018|Martini2018|Architectural Aspects|Questionnaire|runeson2009|Usefulness|used|used|no|runeson2009|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2018|Martini2018|Architectural Aspects|Case Study|runeson2009|Technical Debt|used|used|no|runeson2009|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2018|Martini2018|Architectural Aspects|Questionnaire|runeson2009|Technical Debt|used|used|no|runeson2009|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2018|Martini2018|Architectural Aspects|Case Study|runeson2009|Technical Debt|used|used|no|runeson2009|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2018|Martini2018|Architectural Aspects|Questionnaire|runeson2009|Technical Debt|used|used|no|runeson2009|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2020|Matias2020|Architecture Design Method|Case Study,Questionnaire|none referenced|Feasibility|available|none|no|none referenced|full|Subject Bias, Selection Bias, Measurement Bias|no
+2020|Matias2020|Architecture Design Method|Case Study,Questionnaire|none referenced|Feasibility|available|none|no|none referenced|full|Subject Bias, Selection Bias, Measurement Bias|no
+2020|Matias2020|Architecture Design Method|Case Study,Questionnaire|none referenced|Feasibility|available|none|no|none referenced|full|Subject Bias, Selection Bias, Measurement Bias|no
+2019|Mattos2019|Architecture Optimization Method|Field Experiment|none referenced|Effectiveness|used|used|no|none referenced|full|Selection Bias|no
+2019|Mayrhofer2019|Reference architecture|Argumentation|Oreizy2008|Adaptability|none|none|no|none referenced|full|none|yes
+2016|Mesli-Kesraoui2016|Architecture Analysis Method|Case Study|books.daglib.0029933|Completeness|used|used|no|runeson2009|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2016|Mesli-Kesraoui2016|Architecture Analysis Method|Interview|none referenced|none|used|used|no|runeson2009|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2020|Moghaddam2020|Architecture Optimization Method|Case Study|none referenced|Performance|used|used|no|none referenced|full|none|yes
+2019|Musil2019|Architecture Analysis Method|Case Study|Runeson2012|Applicability|none|available|Yes|none referenced|full|Internal Validity, External Validity|no
+2019|Musil2019|Architecture Analysis Method|Case Study|Runeson2012|Usefulness|none|available|Yes|none referenced|full|Internal Validity, External Validity|no
+2017|Nguyen2017|Architecture Analysis Method|Motivating Example|none referenced|Feasibility|used|none|no|none referenced|full|none|no
+2019|Ntentos2019|Architecture pattern|Grounded Theory|none referenced|Completeness|none|available|no|none referenced|full|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Generalizability|yes
+2019|Ntentos2019|Architecture pattern|Grounded Theory|none referenced|Completeness|none|available|no|none referenced|full|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Generalizability|yes
+2019|Ntentos2019|Architecture pattern|Grounded Theory|none referenced|Completeness|none|available|no|none referenced|full|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Generalizability|yes
+2019|Ntentos2019|Architecture pattern|Grounded Theory|none referenced|Accuracy|none|available|no|none referenced|full|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Generalizability|yes
+2019|Ntentos2019|Architecture pattern|Grounded Theory|none referenced|Accuracy|none|available|no|none referenced|full|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Generalizability|yes
+2019|Ntentos2019|Architecture pattern|Grounded Theory|none referenced|Accuracy|none|available|no|none referenced|full|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Generalizability|yes
+2020|Ntentos2020|Architecture Analysis Method|Grounded Theory|corbin1990grounded|Accuracy|available|available|yes|none referenced|full|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Measurement Bias|yes
+2020|Ntentos2020|Architecture Analysis Method|Mining Software Repositories|garousi2019guidelines |Modularization|available|available|yes|none referenced|full|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Measurement Bias|yes
+2020|Ntentos2020|Architecture Analysis Method|Mining Software Repositories|garousi2019guidelines |Modularization|available|available|yes|none referenced|full|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Measurement Bias|yes
+2020|Ntentos2020|Architecture Analysis Method|Mining Software Repositories|garousi2019guidelines |Modularization|available|available|yes|none referenced|full|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Measurement Bias|yes
+2020|Ntentos2020|Architecture Analysis Method|Argumentation|none referenced|Complexity|available|available|yes|none referenced|full|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Measurement Bias|yes
+2019|Nunes2019|Architectural Aspects|Case Study|none referenced|Accuracy|available|available|yes|none referenced|full|none|no
+2016|Oquendo2016|Architecture Description Language|Field Experiment|none referenced|Feasibility|none|none|no|none referenced|full|none|no
+2016|Oquendo2016|Architecture Description Language|Field Experiment|none referenced|Usefulness|none|none|no|none referenced|full|none|no
+2018|Oquendo2018|Architecture Description Language|Field Experiment|none referenced|Usefulness|used|none|no|none referenced|full|none|no
+2018|Oquendo2018|Architecture Description Language|Field Experiment|none referenced|Applicability|used|none|no|none referenced|full|none|no
+2019|Pigazzini2019a|Architecture Analysis Method|Case Study|none referenced|Precision|available|available|no|none referenced|full|none|yes
+2019|Pigazzini2019a|Architecture Analysis Method|Case Study|none referenced|Precision|available|available|no|none referenced|full|none|yes
+2019|Pigazzini2019a|Architecture Analysis Method|Case Study|none referenced|Precision|available|available|no|none referenced|full|none|yes
+2019|Pigazzini2019a|Architecture Analysis Method|Case Study|none referenced|Precision|available|available|no|none referenced|full|none|yes
+2019|Pigazzini2019a|Architecture Analysis Method|Case Study|none referenced|Precision|available|available|no|none referenced|full|none|yes
+2019|Pigazzini2019a|Architecture Evolution|Argumentation|none referenced|Applicability|available|available|no|none referenced|full|none|yes
+2018|Power2018|Architecture Design Method|Questionnaire|none referenced|Applicability|none|used|no|none referenced|full|Construct Validity, Internal Validity, External Validity, Reliability, Repeatability|yes
+2018|Power2018|Architecture Design Method|Questionnaire|none referenced|Feasibility|none|used|no|none referenced|full|Construct Validity, Internal Validity, External Validity, Reliability, Repeatability|yes
+2018|Power2018|Architecture Design Method|Questionnaire|none referenced|Completeness|none|used|no|none referenced|full|Construct Validity, Internal Validity, External Validity, Reliability, Repeatability|yes
+2018|Power2018|Architecture Design Method|Questionnaire|none referenced|Usefulness|none|used|no|none referenced|full|Construct Validity, Internal Validity, External Validity, Reliability, Repeatability|yes
+2018|Power2018|Architecture Design Method|Focus Group|yin2015qualitative |Applicability|none|used|no|none referenced|full|Construct Validity, Internal Validity, External Validity, Reliability, Repeatability|yes
+2018|Power2018|Architecture Design Method|Focus Group|yin2015qualitative |Feasibility|none|used|no|none referenced|full|Construct Validity, Internal Validity, External Validity, Reliability, Repeatability|yes
+2018|Power2018|Architecture Design Method|Focus Group|yin2015qualitative |Completeness|none|used|no|none referenced|full|Construct Validity, Internal Validity, External Validity, Reliability, Repeatability|yes
+2018|Power2018|Architecture Design Method|Focus Group|yin2015qualitative |Usefulness|none|used|no|none referenced|full|Construct Validity, Internal Validity, External Validity, Reliability, Repeatability|yes
+2019|Power2019|Architecture Design Method|Questionnaire|none referenced|Feasibility|none|used|no|none referenced|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2019|Power2019|Architecture Design Method|Questionnaire|none referenced|Feasibility|none|used|no|none referenced|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2019|Power2019|Architecture Design Method|Questionnaire|none referenced|Feasibility|none|used|no|none referenced|full|Construct Validity, Internal Validity, External Validity, Reliability|yes
+2019|Sanctis2019|Architecture Design Method|Case Study|none referenced|Effectiveness|none|none|no|none referenced|full|Internal Validity, Generalizability|no
+2019|Sanctis2019|Architecture Design Method|Case Study|none referenced|Effectiveness|none|none|no|none referenced|full|Internal Validity, Generalizability|no
+2019|Sanctis2019|Architecture Design Method|Case Study|none referenced|Effectiveness|none|none|no|none referenced|full|Internal Validity, Generalizability|no
+2019|Sanctis2019|Architecture Design Method|Case Study|none referenced|Scalability|none|none|no|none referenced|full|Internal Validity, Generalizability|no
+2020|Sanctis2020|Reference Architecture|Experiment |none referenced|Performance|used|available|no|none referenced|full|Selection Bias|no
+2020|Sanctis2020|Reference Architecture|Experiment |none referenced|Adaptability|used|available|no|none referenced|full|Selection Bias|no
+2016|Schmerl2016|Architecture Description|Motivating Example|none referenced|Usability|used|used|no|none referenced|full|none|no
+2016|Schmerl2016|Architecture Description|Benchmark|none referenced|Performance|used|used|no|none referenced|full|none|no
+2018|Schneider2018|Architecture Evolution|Case Study|10.1145.2188286.2188319|Feasibility|available|none|no|none referenced|full|none|no
+2018|Schneider2018|Architecture Evolution|Case Study|10.1145.2188286.2188319|Feasibility|available|none|no|none referenced|full|none|no
+2016|Schriek2016|Architecture Optimization Method|User Study|none referenced|Effectiveness|none|none|no|Cohen1968|full|Selection Bias|no
+2016|Schriek2016|Architecture Optimization Method|User Study|none referenced|Effectiveness|none|none|no|Cohen1968|full|Selection Bias|no
+2016|Schriek2016|Architecture Optimization Method|User Study|none referenced|Effectiveness|none|none|no|Cohen1968|full|Selection Bias|no
+2016|Schriek2016|Architecture Optimization Method|User Study|none referenced|Effectiveness|none|none|no|Cohen1968|full|Reliability|no
+2016|Schriek2016|Architecture Optimization Method|User Study|none referenced|Effectiveness|none|none|no|Cohen1968|full|Reliability|no
+2016|Schriek2016|Architecture Optimization Method|User Study|none referenced|Effectiveness|none|none|no|Cohen1968|full|Reliability|no
+2016|Schroeder2016|Architecture Design Method|Interview|1509301|Feasibility|none|available|yes|Gasson2004|full|Selection Bias, Measurement Bias|no
+2016|Schroeder2016|Architecture Design Method|Interview|1509301|Applicability|none|available|yes|Gasson2004|full|Selection Bias, Measurement Bias|no
+2017|Sharaf2017|Architecture Design Method|Case Study|none referenced|Effectiveness|used|none|no|none referenced|full|none|no
+2019|Soezer2019|Architectural Aspects|Case Study|none referenced|Accuracy|none|available|no|none referenced|full|Subject Bias|no
+2019|Soezer2019|Architectural Aspects|Case Study|none referenced|Accuracy|none|available|no|none referenced|full|Subject Bias|no
+2019|Soezer2019|Architectural Aspects|Case Study|none referenced|Performance|none|available|no|none referenced|full|Subject Bias|no
+2018|Spray2018|Reference Architecture|Verification|none referenced|Feasibility|none|used|no|none referenced|full|none|no
+2018|Spray2018|Reference Architecture|Verification|none referenced|Feasibility|none|used|no|none referenced|full|none|no
+2018|Spray2018|Reference Architecture|Case Study|none referenced|Feasibility|none|used|no|none referenced|full|none|no
+2018|Tuma2018|Architecture Analysis Method|User Study|none referenced |Precision|available|none|yes|none referenced|full|Selection Bias, Measurement Bias|no
+2018|Tuma2018|Architecture Analysis Method|User Study|none referenced |Precision|available|none|yes|none referenced|full|Selection Bias, Measurement Bias|no
+2018|Tuma2018|Architecture Analysis Method|User Study|none referenced |Productivity|available|none|yes|none referenced|full|Selection Bias, Measurement Bias|no
+2020|Verdecchia2020|Architecture Evolution|By construction|glaser1967, glaser1978, stol2016|none|none|none|no|none referenced|full|Construct Validity|no
+2020|Verdecchia2020|Technical Dept|Grounded Theory|glaser1967, glaser1978, stol2016|Technical Debt|none|none|no|none referenced|full|Construct Validity|no
+2020|Verdecchia2020|Technical Dept|Grounded Theory|glaser1967, glaser1978, stol2016|Technical Debt|none|none|no|none referenced|full|Construct Validity|no
+2020|Verdecchia2020|Technical Dept|Grounded Theory|glaser1967, glaser1978, stol2016|Technical Debt|none|none|no|none referenced|full|Construct Validity|no
+2020|Verdecchia2020|Technical Dept|Grounded Theory|glaser1967, glaser1978, stol2016|Technical Debt|none|none|no|none referenced|full|Construct Validity|no
+2019|Waegemann2019|Architecture Optimization Method|Case Study|none referenced|Feasibility|used|used|no|none referenced|full|none|no
+2019|Waegemann2019|Architecture Optimization Method|Case Study|none referenced|Feasibility|used|used|no|none referenced|full|none|no
+2019|Waegemann2019|Architecture Optimization Method|Case Study|none referenced|Feasibility|used|used|no|none referenced|full|none|no
+2019|Waegemann2019|Architecture Design Method|Case Study|none referenced|Feasibility|used|used|no|none referenced|full|none|no
+2019|Waegemann2019|Architecture Design Method|Case Study|none referenced|Feasibility|used|used|no|none referenced|full|none|no
+2019|Waegemann2019|Architecture Design Method|Case Study|none referenced|Feasibility|used|used|no|none referenced|full|none|no
+2020|Werle2020|Architecture Design Method|Case Study|none referenced|Feasibility|used|none|no|none referenced|full|none|no
+2018|Weyns2018|Architecture Analysis Method|Case Study|none referenced|Performance |used|used|no|none referenced|full|none|yes
+2018|Weyns2018|Architecture Analysis Method|Case Study|none referenced|Performance |used|used|no|none referenced|full|none|yes
+2018|Weyns2018|Architecture Analysis Method|Case Study|none referenced|Effectiveness|used|used|no|none referenced|full|none|yes
+2018|Weyns2018|Architecture Analysis Method|Case Study|none referenced|Adaptability|used|used|no|none referenced|full|none|yes
+2019|Wu2018|Architecture Evolution|Case Study|none referenced|Productivity|none|none|no|none referenced|full|none|yes
+2017|Yang2017|Architectural Assumptions|Case Study|runeson2009|Usefulness|none|none|no|runeson2009|full|Evaluator Bias|yes
+2017|Yang2017|Architectural Assumptions|Case Study|runeson2009|Usefulness|none|none|no|runeson2009|full|Evaluator Bias|yes
+2017|Yang2017|Architectural Assumptions|Case Study|runeson2009|Usefulness|none|none|no|runeson2009|full|Selection Bias|yes
+2017|Yang2017|Architectural Assumptions|Case Study|runeson2009|Usefulness|none|none|no|runeson2009|full|Selection Bias|yes
+2017|Yang2017|Architectural Assumptions|Case Study|runeson2009|Usefulness|none|none|no|runeson2009|full|Construct Validity|yes
+2017|Yang2017|Architectural Assumptions|Case Study|runeson2009|Usefulness|none|none|no|runeson2009|full|Construct Validity|yes
+2019|Yasaweerasinghelage2019|Architecture Optimization Method|Case Study|none referenced|Feasibility|used|used|no|none referenced|full|none|no
+2017|Zalewski2017|Architecture Decision Making|Questionnaire|none referenced|Effectiveness|none|none|no|none referenced|full|Generalizability|no
+2017|Zalewski2017|Architecture Decision Making|Questionnaire|none referenced|Effectiveness|none|none|no|none referenced|full|Generalizability|no
+2017|Zalewski2017|Architecture Decision Making|Questionnaire|none referenced|Effectiveness|none|none|no|none referenced|full|Generalizability|no
+2017|Zalewski2017|Architecture Decision Making|Questionnaire|none referenced|Effectiveness|none|none|no|none referenced|full|Generalizability|no
+2017|Zalewski2017|Architecture Decision Making|Questionnaire|none referenced|Effectiveness|none|none|no|none referenced|full|Generalizability|no
+2017|Zalewski2017|Architecture Decision Making|Questionnaire|none referenced|Effectiveness|none|none|no|none referenced|full|Generalizability|no

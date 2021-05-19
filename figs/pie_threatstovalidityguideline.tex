@@ -1,0 +1,21 @@
+%\subsection{Pie chart for Threats to Validity Guideline (68)}
+%\begin{figure}
+\begin{center}
+\begin{tikzpicture}[scale=2]
+\pgfmathsetcounter{pieh}{0}
+\foreach \p/\q/\t/\c in {88/60/none referenced/blue!20, 4/3/runeson2009/blue!30, 1/1/cohen1968/blue!40, 3/2/gasson2004/blue!50, 1/1/seaman2008/blue!60, 1/1/yin1994case/blue!70}
+  {
+    \setcounter{pieg}{\value{pieh}}
+    \addtocounter{pieh}{\q}
+    \slice{\thepieg/68*360}
+          {\thepieh/68*360}
+          {\p\%}{\t}{\c}
+  }
+\end{tikzpicture}
+
+\textbf{Pie chart for Threats to Validity Guideline (68)}
+\end{center}
+%\caption{Pie chart for Threats to Validity Guideline (68)}
+%\label{fig:pie_threatstovalidityguideline}
+%\end{figure}
+

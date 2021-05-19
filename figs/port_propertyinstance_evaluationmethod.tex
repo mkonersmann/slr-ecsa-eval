@@ -1,0 +1,103 @@
+%\subsection{Portfolio f\"ur Property Instance und Evaluation Method (Gr\"o\ss{}e entspricht der Anzahl)}
+%\begin{figure}
+\begin{center}
+\begin{tikzpicture}[scale=.8]
+\begin{axis}[scatter,
+    width=.99\linewidth,
+    cycle multi list=Spectral,
+    every axis plot/.append style={draw, fill, fill opacity=0.5},
+    scatter src=y,
+    nodes near coords style={color=black,font=\small},
+    %enlargelimits=0.15,
+    x tick label style={rotate=45,anchor=east},
+    xtick={0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21}, xticklabels={none,Feasibility,Performance,Effectiveness,Usefulness,Accuracy,Productivity,Applicability,Completeness,Usability,Technical Debt,Complexity,Scalability,Precision,Adaptability,Trustworthiness,Cost Savings,Uncertainty Reduction,Availability,Extensibility,Security,Modularization},
+    xlabel={Property Instance},
+    ytick={0,1,2,3,4,5,6,7,8,9,10,11,12,13,14}, yticklabels={Case Study,Experiment,Motivating Example,Questionnaire,Interview,Benchmark,Grounded Theory,Field Experiment,Argumentation,Focus Group,Mining Software Repositories,User Study,Literature Review,by Construction,Verification},
+    ylabel={Evaluation Method},
+    grid=both
+]
+
+\addplot[mark size=5.860,opacity=0.5,text=black] coordinates { (0,0) } node[text=black,font=\bfseries] {3};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (0,2) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (0,4) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (0,12) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (0,13) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=9.581,opacity=0.5,text=black] coordinates { (1,0) } node[text=black,font=\bfseries] {9};
+\addplot[mark size=7.101,opacity=0.5,text=black] coordinates { (1,2) } node[text=black,font=\bfseries] {5};
+\addplot[mark size=5.860,opacity=0.5,text=black] coordinates { (1,3) } node[text=black,font=\bfseries] {3};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (1,4) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (1,7) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (1,8) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (1,9) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (1,14) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=7.101,opacity=0.5,text=black] coordinates { (2,0) } node[text=black,font=\bfseries] {5};
+\addplot[mark size=7.101,opacity=0.5,text=black] coordinates { (2,1) } node[text=black,font=\bfseries] {5};
+\addplot[mark size=5.240,opacity=0.5,text=black] coordinates { (2,2) } node[text=black,font=\bfseries] {2};
+\addplot[mark size=5.860,opacity=0.5,text=black] coordinates { (2,5) } node[text=black,font=\bfseries] {3};
+\addplot[mark size=8.961,opacity=0.5,text=black] coordinates { (3,0) } node[text=black,font=\bfseries] {8};
+\addplot[mark size=5.240,opacity=0.5,text=black] coordinates { (3,1) } node[text=black,font=\bfseries] {2};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (3,3) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (3,7) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (3,11) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=6.481,opacity=0.5,text=black] coordinates { (4,0) } node[text=black,font=\bfseries] {4};
+\addplot[mark size=5.860,opacity=0.5,text=black] coordinates { (4,3) } node[text=black,font=\bfseries] {3};
+\addplot[mark size=5.240,opacity=0.5,text=black] coordinates { (4,7) } node[text=black,font=\bfseries] {2};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (4,9) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=5.860,opacity=0.5,text=black] coordinates { (5,0) } node[text=black,font=\bfseries] {3};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (5,1) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (5,2) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (5,5) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=5.240,opacity=0.5,text=black] coordinates { (5,6) } node[text=black,font=\bfseries] {2};
+\addplot[mark size=5.240,opacity=0.5,text=black] coordinates { (6,0) } node[text=black,font=\bfseries] {2};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (6,1) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=5.240,opacity=0.5,text=black] coordinates { (6,3) } node[text=black,font=\bfseries] {2};
+\addplot[mark size=5.240,opacity=0.5,text=black] coordinates { (6,4) } node[text=black,font=\bfseries] {2};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (6,11) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=5.240,opacity=0.5,text=black] coordinates { (7,0) } node[text=black,font=\bfseries] {2};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (7,3) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (7,4) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (7,7) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (7,8) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (7,9) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (8,0) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (8,2) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (8,3) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (8,4) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (8,6) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (8,9) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (8,12) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (9,1) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=5.860,opacity=0.5,text=black] coordinates { (9,2) } node[text=black,font=\bfseries] {3};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (9,4) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (10,0) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (10,3) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (10,5) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (10,6) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (10,10) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (11,0) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (11,2) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (11,8) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (11,10) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=5.860,opacity=0.5,text=black] coordinates { (12,0) } node[text=black,font=\bfseries] {3};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (12,1) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=5.240,opacity=0.5,text=black] coordinates { (13,0) } node[text=black,font=\bfseries] {2};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (13,11) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (14,0) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (14,1) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (14,8) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (15,0) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (15,3) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (16,5) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (17,6) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (18,1) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (19,1) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (20,1) } node[text=black,font=\bfseries] {1};
+\addplot[mark size=4.620,opacity=0.5,text=black] coordinates { (21,10) } node[text=black,font=\bfseries] {1};
+
+
+\end{axis}
+\end{tikzpicture}
+\end{center}
+%\caption{Portfolio f\"ur Property Instance und Evaluation Method (Gr\"o\ss{}e entspricht der Anzahl)}\label{fig:port_propertyinstance_evaluationmethod}
+%\end{figure}
+

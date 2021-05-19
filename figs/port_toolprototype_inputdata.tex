@@ -1,0 +1,36 @@
+%\subsection{Portfolio f\"ur Tool Prototype und Input Data (Gr\"o\ss{}e entspricht der Anzahl)}
+%\begin{figure}
+\begin{center}
+\begin{tikzpicture}[scale=.8]
+\begin{axis}[scatter,
+    width=.99\linewidth,
+    cycle multi list=Spectral,
+    every axis plot/.append style={draw, fill, fill opacity=0.5},
+    scatter src=y,
+    nodes near coords style={color=black,font=\small},
+    enlargelimits=0.15,
+    %x tick label style={rotate=45,anchor=east},
+    xtick={0,1,2}, xticklabels={none,used,available},
+    xlabel={Tool Prototype},
+    ytick={0,1,2}, yticklabels={none,used,available},
+    ylabel={Input Data},
+    grid=both
+]
+
+\addplot[mark size=21.143,opacity=0.5,text=black] coordinates { (0,0) } node[text=black,font=\bfseries] {15};
+\addplot[mark size=10.857,opacity=0.5,text=black] coordinates { (0,1) } node[text=black,font=\bfseries] {6};
+\addplot[mark size=10.857,opacity=0.5,text=black] coordinates { (0,2) } node[text=black,font=\bfseries] {6};
+\addplot[mark size=10.857,opacity=0.5,text=black] coordinates { (1,0) } node[text=black,font=\bfseries] {6};
+\addplot[mark size=22.286,opacity=0.5,text=black] coordinates { (1,1) } node[text=black,font=\bfseries] {16};
+\addplot[mark size=7.429,opacity=0.5,text=black] coordinates { (1,2) } node[text=black,font=\bfseries] {3};
+\addplot[mark size=8.571,opacity=0.5,text=black] coordinates { (2,0) } node[text=black,font=\bfseries] {4};
+\addplot[mark size=8.571,opacity=0.5,text=black] coordinates { (2,1) } node[text=black,font=\bfseries] {4};
+\addplot[mark size=15.429,opacity=0.5,text=black] coordinates { (2,2) } node[text=black,font=\bfseries] {10};
+
+
+\end{axis}
+\end{tikzpicture}
+\end{center}
+%\caption{Portfolio f\"ur Tool Prototype und Input Data (Gr\"o\ss{}e entspricht der Anzahl)}\label{fig:port_toolprototype_inputdata}
+%\end{figure}
+

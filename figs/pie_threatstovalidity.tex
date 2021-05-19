@@ -1,0 +1,19 @@
+%\subsection{Kreisdiagramm f\"ur Threats to Validity (123)}
+%\begin{figure}
+\begin{center}
+\begin{tikzpicture}[scale=2]
+\pgfmathsetcounter{pieh}{0}
+\foreach \p/\q/\t/\c in {28/34/none/blue!20, 12/15/External Validity/blue!30, 11/14/Internal Validity/blue!40, 12/15/Selection Bias/blue!50, 8/10/Construct Validity/blue!60, 7/9/Reliability/blue!70, 6/7/Generalizability/blue!80, 4/5/Evaluator Bias/blue!90, 4/5/Measurement Bias/blue!100, 3/4/Subject Bias/blue!110, 1/1/Confirmability/blue!120, 1/1/Dependability/blue!130, 1/1/Internal Consistency/blue!140, 1/1/Transferability/blue!150, 1/1/Repeatability/blue!160, 0/0/Grounded Theory Evaluation Criteria/blue!170}
+  {
+    \setcounter{pieg}{\value{pieh}}
+    \addtocounter{pieh}{\q}
+    \slice{\thepieg/123*360}
+          {\thepieh/123*360}
+          {\p\%}{\t}{\c}
+  }
+\end{tikzpicture}
+\end{center}
+%\caption{Kreisdiagramm f\"ur Threats to Validity (123)}
+%\label{fig:pie_threatstovalidity}
+%\end{figure}
+

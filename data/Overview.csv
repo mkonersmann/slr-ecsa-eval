@@ -1,0 +1,68 @@
+Year;Paper ID;Research Objects;Evaluation Methods;Properties
+2016;Abukwaik2016;Architecture Analysis Method;Experiment;Accuracy
+2016;Agrawal2016;Architecture pattern, Architecture Optimization Method;Motivating Example;Performance, Feasibility
+2016;Alshara2016;Architecture Analysis Method;Motivating Example;none
+2016;Cavalcante2016;Architecture Description Language;Case Study;Performance
+2016;Gerostathopoulos2016;Architecture Optimization Method;Experiment;Performance
+2016;Kapto2016;Architecture Analysis Method;Case Study;Effectiveness, none
+2016;Mesli-Kesraoui2016;Architecture Analysis Method;Interview, Case Study;none, Completeness
+2016;Oquendo2016;Architecture Description Language;Field Experiment;Usefulness, Feasibility
+2016;Schmerl2016;Architecture Description;Benchmark, Motivating Example;Performance, Usability
+2016;Schriek2016;Architecture Optimization Method;User Study;Effectiveness
+2016;Schroeder2016;Architecture Design Method;Interview;Applicability, Feasibility
+2017;Bhat2017;Architecture Analysis Method;Case Study;Accuracy, Precision
+2017;Camara2017;Architecture Analysis Method;Experiment;Effectiveness, Performance
+2017;Digkas2017;Architecture Evolution;Mining Software Repositories, Benchmark;Complexity, Technical Debt, Cost savings
+2017;Filho2017;Architecture Description Language;Interview, Case Study;Usability, Effectiveness
+2017;Haselboeck2017;Architecture Decision Making;Case Study, Literature Review;none
+2017;Nguyen2017;Architecture Analysis Method;Motivating Example;Feasibility
+2017;Sharaf2017;Architecture Design Method;Case Study;Effectiveness
+2017;Yang2017;Architectural Assumptions;Case Study;Usefulness
+2017;Zalewski2017;Architecture Decision Making;Questionnaire;Effectiveness
+2018;Alkhabbas2018;Architecture Description;Experiment , Case Study;Performance, Feasibility
+2018;Antonino2018;Architecture Design Method;Motivating Example;Feasibility
+2018;Arcaini2018;Architecture Analysis Method, Architecture Description Language;Motivating Example;Completeness, Feasibility
+2018;Avritzer2018;Architecture Analysis Method;Case Study;Scalability
+2018;Buchgeher2018;Architecture Extraction, Architecture Analysis Method;Case Study;Performance, Scalability, Trustworthiness
+2018;Christensen2018;Teaching;Case Study, Questionnaire;Usefulness
+2018;Heijenk2018;Architecture Decision Making;Literature Review, Interview;Completeness, Productivity
+2018;Martini2018;Architectural Aspects;Case Study, Questionnaire;Technical Debt, Usefulness
+2018;Oquendo2018;Architecture Description Language;Field Experiment;Applicability, Usefulness
+2018;Power2018;Architecture Design Method;Focus Group, Questionnaire;Completeness, Usefulness, Feasibility, Applicability
+2018;Schneider2018;Architecture Evolution;Case Study;Feasibility
+2018;Spray2018;Reference Architecture;Case Study, Verification;Feasibility
+2018;Tuma2018;Architecture Analysis Method;User Study;Productivity, Precision
+2018;Weyns2018;Architecture Analysis Method;Case Study;Adaptability, Performance , Effectiveness
+2019;Castellanos2019;Architecture Evolution, Architecture Design Method;Questionnaire;Productivity
+2019;Malakuti2019;Architecture pattern;Argumentation;Feasibility
+2019;Malki2019;Architecture Decision Making;Grounded Theory;Uncertainty Reduction
+2019;Mattos2019;Architecture Optimization Method;Field Experiment;Effectiveness
+2019;Mayrhofer2019;Reference architecture;Argumentation;Adaptability
+2019;Musil2019;Architecture Analysis Method;Case Study;Applicability, Usefulness
+2019;Ntentos2019;Architecture pattern;Grounded Theory;Accuracy, Completeness
+2019;Nunes2019;Architectural Aspects;Case Study;Accuracy
+2019;Pigazzini2019a;Architecture Analysis Method, Architecture Evolution;Argumentation, Case Study;Precision, Applicability
+2019;Power2019;Architecture Design Method;Questionnaire;Feasibility
+2019;Sanctis2019;Architecture Design Method;Case Study;Scalability, Effectiveness
+2019;Soezer2019;Architectural Aspects;Case Study;Accuracy, Performance
+2019;Waegemann2019;Architecture Optimization Method, Architecture Design Method;Case Study;Feasibility
+2019;Wu2018;Architecture Evolution;Case Study;Productivity
+2019;Yasaweerasinghelage2019;Architecture Optimization Method;Case Study;Feasibility
+2020;Aerts2020;Teaching;Questionnaire;Trustworthiness
+2020;Almeida2020;Architecture Optimization Method, Architecture Evolution;Case Study;Complexity, Effectiveness, Applicability
+2020;Capilla2020;Teaching;Experiment;Productivity
+2020;Caporuscio2020a;Architecture Description;Experiment;Effectiveness
+2020;Caporuscio2020b;Architecture Design Method;Case Study;Effectiveness, Productivity
+2020;Chondamrongkul2020;Architecture Description Language;Benchmark;Accuracy, Performance
+2020;Cruz2020;Architecture Analysis Method;Case Study;Feasibility
+2020;Dias2020;Architecture Description Language;Benchmark, Motivating Example;Performance, Feasibility, Usability
+2020;Giaimo2020;Quality Evolution;Case Study;Feasibility, Effectiveness 
+2020;Islam2020;Reference Architecture;Motivating Example;Complexity, Usability, Accuracy, Performance
+2020;Koziolek2020;Architecture Design Method;Experiment;Usability, Availability, Scalability, Extensibility, Security, Performance
+2020;Malakuti2020;Technical Dept;Case Study;none
+2020;Matias2020;Architecture Design Method;Case Study,Questionnaire;Feasibility
+2020;Moghaddam2020;Architecture Optimization Method;Case Study;Performance
+2020;Ntentos2020;Architecture Analysis Method;Grounded Theory, Mining Software Repositories, Argumentation;Complexity, Accuracy, Modularization
+2020;Sanctis2020;Reference Architecture;Experiment ;Performance, Adaptability
+2020;Verdecchia2020;Architecture Evolution, Technical Dept;Grounded Theory, By construction;none, Technical Debt
+2020;Werle2020;Architecture Design Method;Case Study;Feasibility

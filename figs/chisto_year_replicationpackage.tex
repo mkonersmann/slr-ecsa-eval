@@ -1,0 +1,31 @@
+%\subsection{Histogram von Year je Replication Package}
+%\begin{figure}
+\begin{center}
+\begin{tikzpicture}[scale=0.8]
+\
+\begin{axis}[ width=.48\linewidth,height=7cm, ybar stacked,
+    cycle multi list=Spectral,
+    every axis plot/.append style={draw, fill, fill opacity=0.5},
+    enlargelimits=0.15, 
+    bar width=1.5em,
+    nodes near coords, %nodes near coords align=below,
+    nodes near coords style={color=black,font=\small},
+    legend style={at={(0.5,1.115)}, anchor=north,legend columns=3},
+    legend cell align={left},
+    ylabel={Replication Package},ymajorgrids,ymin=0,
+    %x tick label style={rotate=45,anchor=east},
+    ymin=0,
+    xtick={1,2,3,4,5}, xticklabels={2016,2017,2018,2019,2020},
+    xlabel={Year}    
+   ]
+\addplot coordinates { (1,11)  (2,7)  (3,12)  (4,13)  (5,15)  };
+\addplot coordinates { (1,1)  (2,2)  (3,3)  (4,2)  (5,4)  };
+
+\legend{no,yes}
+\end{axis}
+\end{tikzpicture}
+\end{center}
+%\caption{Histogram von Year je Replication Package}
+%\label{fig:chisto_year_replicationpackage}
+%\end{figure}
+

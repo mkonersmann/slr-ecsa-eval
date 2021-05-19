@@ -1,0 +1,22 @@
+%\subsection{Histogramm f\"ur Year (71)}
+%\begin{figure}
+\begin{center}
+\begin{tikzpicture}[scale=.8]
+\begin{axis}[ ybar, ymajorgrids, enlargelimits=0.15, legend style={at={(0.5,-0.15)}, anchor=north,legend columns=-1},
+    width=.90\linewidth,height=10cm,
+    nodes near coords, %nodes near coords align=below,
+    ylabel={Count},ymin=0,
+    x tick label style={rotate=45,anchor=east},
+    xtick={1,2,3,4,5},
+    xticklabels={2016,2017,2018,2019,2020
+}
+    %xlabel={Year}    
+    ]
+  \addplot coordinates { (1,13)  (2,11)  (3,14)  (4,15)  (5,18)   };
+\end{axis}
+\end{tikzpicture}
+\end{center}
+%\caption{Histogramm f\"ur Year (71)}
+%\label{fig:histo_year}
+%\end{figure}
+

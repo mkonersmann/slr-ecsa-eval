@@ -1,0 +1,127 @@
+Year|Paper ID|Property Instance|Evaluation Method
+2016|Abukwaik2016|Accuracy|Experiment
+2016|Agrawal2016|Feasibility|Motivating Example
+2016|Agrawal2016|Performance|Motivating Example
+2016|Alshara2016|none|Motivating Example
+2016|Cavalcante2016|Performance|Case Study
+2016|Gerostathopoulos2016|Performance|Experiment
+2016|Kapto2016|Effectiveness|Case Study
+2016|Kapto2016|none|Case Study
+2016|Mesli-Kesraoui2016|Completeness|Case Study
+2016|Mesli-Kesraoui2016|none|Interview
+2016|Oquendo2016|Feasibility|Field Experiment
+2016|Oquendo2016|Usefulness|Field Experiment
+2016|Schmerl2016|Performance|Benchmark
+2016|Schmerl2016|Usability|Motivating Example
+2016|Schriek2016|Effectiveness|User Study
+2016|Schroeder2016|Applicability|Interview
+2016|Schroeder2016|Feasibility|Interview
+2017|Bhat2017|Accuracy|Case Study
+2017|Bhat2017|Precision|Case Study
+2017|Camara2017|Effectiveness|Experiment
+2017|Camara2017|Performance|Experiment
+2017|Digkas2017|Complexity|Mining Software Repositories
+2017|Digkas2017|Cost savings|Benchmark
+2017|Digkas2017|Technical Debt|Benchmark
+2017|Digkas2017|Technical Debt|Mining Software Repositories
+2017|Filho2017|Effectiveness|Case Study
+2017|Filho2017|Usability|Interview
+2017|Haselboeck2017|none|Case Study
+2017|Haselboeck2017|none|Literature Review
+2017|Nguyen2017|Feasibility|Motivating Example
+2017|Sharaf2017|Effectiveness|Case Study
+2017|Yang2017|Usefulness|Case Study
+2017|Zalewski2017|Effectiveness|Questionnaire
+2018|Alkhabbas2018|Feasibility|Case Study
+2018|Alkhabbas2018|Performance|Experiment 
+2018|Antonino2018|Feasibility|Motivating Example
+2018|Arcaini2018|Completeness|Motivating Example
+2018|Arcaini2018|Feasibility|Motivating Example
+2018|Avritzer2018|Scalability|Case Study
+2018|Buchgeher2018|Performance|Case Study
+2018|Buchgeher2018|Scalability|Case Study
+2018|Buchgeher2018|Trustworthiness|Case Study
+2018|Christensen2018|Usefulness|Case Study
+2018|Christensen2018|Usefulness|Questionnaire
+2018|Heijenk2018|Completeness|Interview
+2018|Heijenk2018|Completeness|Literature Review
+2018|Heijenk2018|Productivity|Interview
+2018|Martini2018|Technical Debt|Case Study
+2018|Martini2018|Technical Debt|Questionnaire
+2018|Martini2018|Usefulness|Case Study
+2018|Martini2018|Usefulness|Questionnaire
+2018|Oquendo2018|Applicability|Field Experiment
+2018|Oquendo2018|Usefulness|Field Experiment
+2018|Power2018|Applicability|Focus Group
+2018|Power2018|Applicability|Questionnaire
+2018|Power2018|Completeness|Focus Group
+2018|Power2018|Completeness|Questionnaire
+2018|Power2018|Feasibility|Focus Group
+2018|Power2018|Feasibility|Questionnaire
+2018|Power2018|Usefulness|Focus Group
+2018|Power2018|Usefulness|Questionnaire
+2018|Schneider2018|Feasibility|Case Study
+2018|Spray2018|Feasibility|Case Study
+2018|Spray2018|Feasibility|Verification
+2018|Tuma2018|Precision|User Study
+2018|Tuma2018|Productivity|User Study
+2018|Weyns2018|Adaptability|Case Study
+2018|Weyns2018|Effectiveness|Case Study
+2018|Weyns2018|Performance |Case Study
+2019|Castellanos2019|Productivity|Questionnaire
+2019|Malakuti2019|Feasibility|Argumentation
+2019|Malki2019|Uncertainty Reduction|Grounded Theory
+2019|Mattos2019|Effectiveness|Field Experiment
+2019|Mayrhofer2019|Adaptability|Argumentation
+2019|Musil2019|Applicability|Case Study
+2019|Musil2019|Usefulness|Case Study
+2019|Ntentos2019|Accuracy|Grounded Theory
+2019|Ntentos2019|Completeness|Grounded Theory
+2019|Nunes2019|Accuracy|Case Study
+2019|Pigazzini2019a|Applicability|Argumentation
+2019|Pigazzini2019a|Precision|Case Study
+2019|Power2019|Feasibility|Questionnaire
+2019|Sanctis2019|Effectiveness|Case Study
+2019|Sanctis2019|Scalability|Case Study
+2019|Soezer2019|Accuracy|Case Study
+2019|Soezer2019|Performance|Case Study
+2019|Waegemann2019|Feasibility|Case Study
+2019|Wu2018|Productivity|Case Study
+2019|Yasaweerasinghelage2019|Feasibility|Case Study
+2020|Aerts2020|Trustworthiness|Questionnaire
+2020|Almeida2020|Applicability|Case Study
+2020|Almeida2020|Complexity|Case Study
+2020|Almeida2020|Effectiveness|Case Study
+2020|Capilla2020|Productivity|Experiment
+2020|Caporuscio2020a|Effectiveness|Experiment
+2020|Caporuscio2020b|Effectiveness|Case Study
+2020|Caporuscio2020b|Productivity|Case Study
+2020|Chondamrongkul2020|Accuracy|Benchmark
+2020|Chondamrongkul2020|Performance|Benchmark
+2020|Cruz2020|Feasibility|Case Study
+2020|Dias2020|Feasibility|Motivating Example
+2020|Dias2020|Performance|Benchmark
+2020|Dias2020|Usability|Motivating Example
+2020|Giaimo2020|Effectiveness |Case Study
+2020|Giaimo2020|Feasibility|Case Study
+2020|Islam2020|Accuracy|Motivating Example
+2020|Islam2020|Complexity|Motivating Example
+2020|Islam2020|Performance|Motivating Example
+2020|Islam2020|Usability|Motivating Example
+2020|Koziolek2020|Availability|Experiment
+2020|Koziolek2020|Extensibility|Experiment
+2020|Koziolek2020|Performance|Experiment
+2020|Koziolek2020|Scalability|Experiment
+2020|Koziolek2020|Security|Experiment
+2020|Koziolek2020|Usability|Experiment
+2020|Malakuti2020|none|Case Study
+2020|Matias2020|Feasibility|Case Study,Questionnaire
+2020|Moghaddam2020|Performance|Case Study
+2020|Ntentos2020|Accuracy|Grounded Theory
+2020|Ntentos2020|Complexity|Argumentation
+2020|Ntentos2020|Modularization|Mining Software Repositories
+2020|Sanctis2020|Adaptability|Experiment 
+2020|Sanctis2020|Performance|Experiment 
+2020|Verdecchia2020|none|By construction
+2020|Verdecchia2020|Technical Debt|Grounded Theory
+2020|Werle2020|Feasibility|Case Study

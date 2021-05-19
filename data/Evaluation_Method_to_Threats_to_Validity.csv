@@ -1,0 +1,88 @@
+Year|Paper ID|Evaluation Method|Replication Package|Threats to Validity
+2016|Abukwaik2016|Experiment|no|Selection Bias, Generalizability, Evaluator Bias
+2016|Agrawal2016|Motivating Example|no|none
+2016|Alshara2016|Motivating Example|no|none
+2016|Cavalcante2016|Case Study|no|none
+2016|Gerostathopoulos2016|Experiment|no|Generalizability
+2016|Kapto2016|Case Study|no|Internal Validity, External Validity
+2016|Kapto2016|Case Study|no|none
+2016|Mesli-Kesraoui2016|Case Study|no|Construct Validity, Internal Validity, External Validity, Reliability
+2016|Mesli-Kesraoui2016|Interview|no|Construct Validity, Internal Validity, External Validity, Reliability
+2016|Oquendo2016|Field Experiment|no|none
+2016|Schmerl2016|Benchmark|no|none
+2016|Schmerl2016|Motivating Example|no|none
+2016|Schriek2016|User Study|no|Reliability
+2016|Schriek2016|User Study|no|Selection Bias
+2016|Schroeder2016|Interview|yes|Selection Bias, Measurement Bias
+2017|Bhat2017|Case Study|no|Selection Bias, Generalizability
+2017|Camara2017|Experiment|no|none
+2017|Digkas2017|Benchmark|yes|Construct Validity, External Validity, Reliability
+2017|Digkas2017|Mining Software Repositories|yes|Construct Validity, External Validity, Reliability
+2017|Filho2017|Case Study|Yes|Construct Validity, External Validity, Reliability
+2017|Filho2017|Interview|Yes|Construct Validity, External Validity, Reliability
+2017|Haselboeck2017|Case Study|no|Confirmability, Dependability, Internal Consistency, Transferability
+2017|Haselboeck2017|Literature Review|no|Confirmability, Dependability, Internal Consistency, Transferability
+2017|Nguyen2017|Motivating Example|no|none
+2017|Sharaf2017|Case Study|no|none
+2017|Yang2017|Case Study|no|Construct Validity
+2017|Yang2017|Case Study|no|Evaluator Bias
+2017|Yang2017|Case Study|no|Selection Bias
+2017|Zalewski2017|Questionnaire|no|Generalizability
+2018|Alkhabbas2018|Case Study|no|none
+2018|Alkhabbas2018|Experiment |no|none
+2018|Antonino2018|Motivating Example|no|none
+2018|Arcaini2018|Motivating Example|yes|none
+2018|Avritzer2018|Case Study|yes|Subject Bias, Evaluator Bias, Selection Bias
+2018|Buchgeher2018|Case Study|no|Internal Validity, External Validity
+2018|Christensen2018|Case Study|no|none
+2018|Christensen2018|Questionnaire|no|none
+2018|Heijenk2018|Interview|no|Construct Validity, Internal Validity, External Validity, Reliability
+2018|Heijenk2018|Literature Review|no|Construct Validity, Internal Validity, External Validity, Reliability
+2018|Martini2018|Case Study|no|Construct Validity, Internal Validity, External Validity, Reliability
+2018|Martini2018|Questionnaire|no|Construct Validity, Internal Validity, External Validity, Reliability
+2018|Oquendo2018|Field Experiment|no|none
+2018|Power2018|Focus Group|no|Construct Validity, Internal Validity, External Validity, Reliability, Repeatability
+2018|Power2018|Questionnaire|no|Construct Validity, Internal Validity, External Validity, Reliability, Repeatability
+2018|Schneider2018|Case Study|no|none
+2018|Spray2018|Case Study|no|none
+2018|Spray2018|Verification|no|none
+2018|Tuma2018|User Study|yes|Selection Bias, Measurement Bias
+2018|Weyns2018|Case Study|no|none
+2019|Castellanos2019|Questionnaire|no|Construct Validity, Internal Validity, External Validity, Reliability
+2019|Malakuti2019|Argumentation|no|none
+2019|Malki2019|Grounded Theory|no|Selection Bias, Measurement Bias, Generalizability
+2019|Mattos2019|Field Experiment|no|Selection Bias
+2019|Mayrhofer2019|Argumentation|no|none
+2019|Musil2019|Case Study|Yes|Internal Validity, External Validity
+2019|Ntentos2019|Grounded Theory|no|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Generalizability
+2019|Nunes2019|Case Study|yes|none
+2019|Pigazzini2019a|Argumentation|no|none
+2019|Pigazzini2019a|Case Study|no|none
+2019|Power2019|Questionnaire|no|Construct Validity, Internal Validity, External Validity, Reliability
+2019|Sanctis2019|Case Study|no|Internal Validity, Generalizability
+2019|Soezer2019|Case Study|no|Subject Bias
+2019|Waegemann2019|Case Study|no|none
+2019|Wu2018|Case Study|no|none
+2019|Yasaweerasinghelage2019|Case Study|no|none
+2020|Aerts2020|Questionnaire|no|none
+2020|Almeida2020|Case Study|no|Internal Validity, External Validity
+2020|Capilla2020|Experiment|no|none
+2020|Caporuscio2020a|Experiment|yes|Internal Validity, External Validity
+2020|Caporuscio2020b|Case Study|no|none
+2020|Chondamrongkul2020|Benchmark|yes|none
+2020|Cruz2020|Case Study|no|Subject Bias, Selection Bias
+2020|Dias2020|Benchmark|no|none
+2020|Dias2020|Motivating Example|no|none
+2020|Giaimo2020|Case Study|no|Selection Bias
+2020|Islam2020|Motivating Example|yes|none
+2020|Koziolek2020|Experiment|no|none
+2020|Malakuti2020|Case Study|no|none
+2020|Matias2020|Case Study,Questionnaire|no|Subject Bias, Selection Bias, Measurement Bias
+2020|Moghaddam2020|Case Study|no|none
+2020|Ntentos2020|Argumentation|yes|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Measurement Bias
+2020|Ntentos2020|Grounded Theory|yes|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Measurement Bias
+2020|Ntentos2020|Mining Software Repositories|yes|Internal Validity, External Validity, Selection Bias, Evaluator Bias, Measurement Bias
+2020|Sanctis2020|Experiment |no|Selection Bias
+2020|Verdecchia2020|By construction|no|Construct Validity
+2020|Verdecchia2020|Grounded Theory|no|Construct Validity
+2020|Werle2020|Case Study|no|none
