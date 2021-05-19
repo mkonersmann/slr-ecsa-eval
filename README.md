@@ -6,7 +6,7 @@ This is the replication package of the following paper, submitted to ECSA 2021.
 
 Please find the following content:
 
-* **Folders**:
+* **Folders**
   * data -- CSV files with the data as input to the diagrams
   * figs -- Diagrams created by the ruby scripts (see below)
   * tables -- contains the overview.tex file, which is used as input to the summary.tex
@@ -19,7 +19,7 @@ Please find the following content:
   * *\*.awk -- Awk scripts are used to create the corresponding of the \**.csv files in data
   * *.rb -- Ruby scripts to build the respective figures in figs as* .\*.tex files
   * make.sh -- A script to call all other scripts for creating diagrams and the summary.
-* Requirements:
+* **Requirements**
   * A UNIX commandline environment (e.g., bash) with  awk installed
   * Ruby (2.5 or higher)
 
